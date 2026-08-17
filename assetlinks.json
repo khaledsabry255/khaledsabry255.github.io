@@ -7,6 +7,9 @@ permalink: /.well-known/assetlinks.json
   "target": {
     "namespace": "android_app",
     "package_name": "io.github.khaledsabry255.twa",
-    "sha256_cert_fingerprints": ["E1:93:67:7A:B6:1D:DC:3E:27:52:F4:9F:A4:5F:C4:CB:93:74:3F:64:D1:73:A6:79:07:B9:51:8B:F7:21:96:22"]
+    "sha256_cert_fingerprints": [
+      "EA:D9:63:09:EA:DF:48:EB:B7:07:5D:17:9D:7C:B1:26:CA:AE:A8:D7:98:1C:0A:44:A7:67:AE:31:9F:3A:0E:7F",
+      "E1:93:67:7A:B6:1D:DC:3E:27:52:F4:9F:A4:5F:C4:CB:93:74:3F:64:D1:73:A6:79:07:B9:51:8B:F7:21:96:22"
+    ]
   }
 }]
